@@ -1,0 +1,18 @@
+body{
+    margin-top:70px;
+    background: url("nutrition.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: none;
+    height:100%;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color:white;
+}
+h1{
+    color:blue;
+    font-size:50px;
+    text-align: center;
+    margin-top: 100px;
+}
+
